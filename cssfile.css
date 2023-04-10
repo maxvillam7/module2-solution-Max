@@ -5,19 +5,19 @@ h1{
     margin-bottom: 45px;
     text:175%;
     text-align: center;
-    font-family: SansSerif;
+    font-family: SansSerif, serif;
 
 }
 .ptext{
     margin-top: 50px;
     text: 100%;
-    font-family: SansSerif;
+    font-family: SansSerif, serif;
     color:black;
     padding: 10px;
 }
 .psubtittle{
     text:125%;
-    font-family:SansSerif;
+    font-family:SansSerif, serif;
     font-weight: bold;
     font-size: 1em;
 }
